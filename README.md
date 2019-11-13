@@ -9,7 +9,6 @@ protectionScanner is simple python script. Script is testing from wordlist file 
 
 
 Developed by Milan Jović
-Contact:
 Twitter - @milanshiftsec
 LinkedIn - https://www.linkedin.com/in/milan-jovi%C4%87-144627142/
 E-Mail - milanshiftcybersec@gmail.com
