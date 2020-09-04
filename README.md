@@ -11,4 +11,4 @@ Usage python protectionScanner.py --wordlist[filepath]
 Developed by Milan Jović
 Twitter - @milanshiftsec
 LinkedIn - https://www.linkedin.com/in/milan-jovi%C4%87-144627142/
-E-Mail - milanshiftcybersec@gmail.com
+E-Mail - milanjovicsec@sbb.rs
